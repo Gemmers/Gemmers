@@ -1,5 +1,4 @@
-*👋 Salut, je suis Sylvain Bohrer.  
-*👀 Je m'intéresse au développement d'applications web et web mobile et en particulier le Web 3.0.  
+*👋 Salut, je suis Sylvain Bohrer.   
 *🌱 J'ai obtenu ma certification RNCP35653 en concepteur développeur d'applications web avec Le Wagon le 23 avril 2024.  
 *🌳 Voici mon linktree pour plus d'informations et mes coordonnées : 🌳 linktr.ee/Gemmers 🌲
 
